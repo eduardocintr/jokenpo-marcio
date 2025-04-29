@@ -19,7 +19,7 @@ JokenPO é um aplicativo mobile desenvolvido em Flutter que permite aos usuário
 1. Certifique-se de ter o Flutter instalado ([Guia de Instalação](https://flutter.dev/docs/get-started/install)).
 2. Clone este repositório:
    ```sh
-   [git clone https://github.com/Aghelena/jokenpo/tree/main]
+   [git clone https://github.com/eduardocintr/jokenpo-marcio.git]
    ```
 3. Acesse o diretório do projeto:
    ```sh
